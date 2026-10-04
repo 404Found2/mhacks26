@@ -2,6 +2,9 @@
 
 Northstar is an AI strategy studio. You talk with Theo, a strategy agent, until you have one customer profile, one marketing mission, and a short list of next tasks. Nothing is written to the dashboard until you approve it.
 
+Figma Slides: https://www.figma.com/deck/zqItw5cC02DRRdnhHdiKnh
+Video Demo: https://youtu.be/CB3Pix0Dj3E
+
 ## Inspiration
 
 Founders already have plenty of advice. What they lack is a decision they can stand behind: who the customer is, what the offer is, and what to do on Monday. Generic chat leaves that as a transcript. Northstar treats the conversation as a draft and the dashboard as the record, and it only promotes a draft after the founder says so.
@@ -59,3 +62,4 @@ Confirmation gates are a product decision. The useful behavior was not "the mode
 - Hash passwords. Accounts work for the demo; they are not production auth.
 - Edit a task in place, instead of only completing it or clearing the list.
 - Use the products API, which already stores a name, description, price, and margin, in the interface.
+
