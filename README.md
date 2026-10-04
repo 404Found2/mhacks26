@@ -1,5 +1,5 @@
 # Northstar
-
+> Note: This project uses significant AI generated code to help me get used to AI coding concepts (as this is my first time fully utitilizing AI tools for coding).
 Northstar is an AI strategy studio. You talk with Theo, a strategy agent, until you have one customer profile, one marketing mission, and a short list of next tasks. Nothing is written to the dashboard until you approve it.
 
 Figma Slides: https://www.figma.com/deck/zqItw5cC02DRRdnhHdiKnh
